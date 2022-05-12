@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.11b3bda5.css",
+    "main.js": "/portfolio/static/js/main.77f0f0e5.js",
+    "static/media/pro1.png": "/portfolio/static/media/pro1.a195f4a1fbd07a0eaefa.png",
+    "static/media/pro2.png": "/portfolio/static/media/pro2.823a5048f131117dc4bc.png",
+    "static/media/me.png": "/portfolio/static/media/me.554c75c2eca553a37535.png",
+    "static/media/Harsh Gupta Resume.pdf": "/portfolio/static/media/Harsh Gupta Resume.3b81e154cc47930a6d41.pdf",
+    "static/media/Me2.jpg": "/portfolio/static/media/Me2.5eae36e0ecd0c0ecd190.jpg",
+    "static/media/pro4.png": "/portfolio/static/media/pro4.92b6cffe8aa4c9073a86.png",
+    "static/media/pro3.png": "/portfolio/static/media/pro3.592bf19f22556f4098cd.png",
+    "static/media/pro5.png": "/portfolio/static/media/pro5.1b7704aa26085c5e7d2a.png",
+    "index.html": "/portfolio/index.html",
+    "main.11b3bda5.css.map": "/portfolio/static/css/main.11b3bda5.css.map",
+    "main.77f0f0e5.js.map": "/portfolio/static/js/main.77f0f0e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b3bda5.css",
+    "static/js/main.77f0f0e5.js"
+  ]
+}
